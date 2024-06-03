@@ -105,5 +105,4 @@ print(cubo[1])
 print(cubo[1][2])
 print(cubo[1][2][2])
 
-
 tp.sleep(1)
